@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Helping You With Coding</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <h1>Helping You With Coding</h1>
+            <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="about.html">About Us</a></li>
+            <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section class="hero">
+            <h2>Welcome to Helping You With Coding</h2>
+            <p>Empowering developers with the tools and knowledge of JavaScript, HTML, XML, and CSS.</p>
+            <a href="#learn-more" class="cta-button">Learn More</a>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Helping You With Coding. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
